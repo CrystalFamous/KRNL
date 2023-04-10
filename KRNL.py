@@ -17,7 +17,7 @@ while i < 4:
 
     time.sleep(4)
     pag.click(823,243)
-    time.sleep(2)
+    time.sleep(1.4)
     pag.click(823,318)
     time.sleep(2)
     keyboard.press_and_release('ctrl+w')
